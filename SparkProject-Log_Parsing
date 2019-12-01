@@ -1,0 +1,43 @@
+case class nasaLogData(host: String, stime: String, rurl: String, rcode: Int, byteret: Int)
+
+val PATTERN = """^(\S+) (\S+) (\S+) \[([\w:/]+\s[+\-]\d{4})\] "(\S+) (\S+)(.*)" (\d{3}) (\d+)""".r
+
+def validRow(line:String):
+nasaLogData =
+{
+val valid = PATTERN.findFirstMatchIn(line)
+if(valid.isEmpty)
+{
+println("ERROR  "+line)
+nasaLogData("Empty","","",-1,-1)
+}
+else
+{
+val r=valid.get
+nasaLogData(r.group(1),r.group(4),r.group(6),r.group(8).toInt,r.group(9).toInt)
+}
+}
+
+val f = sc.textFile("/data/spark/project/NASA_access_log_Aug95.gz")
+val head=f.take(10)
+val frow = f.map(validRow)
+val nasaLogDF= frow.toDF
+nasaLogDF.printSchema
+nasaLogDF.createOrReplaceTempView("nasa_Log")
+val nasaLogNew=spark.sql("select * from nasa_Log")
+#nasaLogNew.createOrReplaceTempView("nasa_Log_New")
+#spark.sql("cache TABLE nasa_Log_New")
+
+##Top 10 url 
+nasaLogNew.groupBy("rurl").count.sort($"count".desc).take(10).foreach(println) --- Without "html" filter
+nasaLogNew.filter($"rurl".like("%html")).groupBy("rurl").count.sort($"count".desc).take(10).foreach(println)-- with html filter
+
+## top five-time frame for high traffic
+val onlyDate =spark.sql("select substr(stime,1,14) as stime from nasa_Log")
+onlyDate.groupBy("stime").count.sort($"count".desc).take(5).foreach(println)
+
+##find out top 5 time frames of least traffic
+onlyDate.groupBy("stime").count.sort($"count").take(5).foreach(println)
+
+##find out unique HTTP codes returned by the server along with count
+nasaLogNew.groupBy("rcode").count.sort($"count".desc).take(10).foreach(println)
