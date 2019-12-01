@@ -1,0 +1,160 @@
+KA,SBC,RJN,Grocery,tea,120,80,9600
+KA,SBC,RJN,HomeAppliances,TV,50,12000,600000
+KA,SBC,RJN,Books&Stationary,litarature,25,60,1500
+KA,SBC,RJN,Electronics,Mobile,200,8000,1600000
+KA,SBC,RJN,Appearal,western ware,41,1200,49200
+KA,SBC,RJN,Grocery,sugar,500,45,22500
+KA,SBC,RJN,HomeAppliances,washing machine,60,35000,2100000
+KA,SBC,RJN,Books&Stationary,FinanceBooks,10,300,3000
+KA,SBC,RJN,Electronics,Desktop,31,30000,930000
+KA,SBC,RJN,Appearal,Kids Cloths,60,1500,90000
+KA,SBC,RJN,Grocery,milk,600,38,22800
+KA,SBC,RJN,HomeAppliances,fridge,80,16000,1280000
+KA,SBC,RJN,Books&Stationary,Kids Story,105,150,15750
+KA,SBC,RJN,Electronics,tablets,85,16000,1360000
+KA,SBC,RJN,Appearal,women Cloths,246,2000,492000
+KA,SBC,RJN,Grocery,biscuits,350,10,3500
+KA,SBC,RJN,HomeAppliances,iron,20,990,19800
+KA,SBC,RJN,Books&Stationary,WeeklyMagazine,125,120,15000
+KA,SBC,RJN,Electronics,printer,52,14800,769600
+KA,SBC,RJN,Appearal,mens cloths,160,2560,409600
+KA,SBC,KRP,Grocery,tea,900,80,72000
+KA,SBC,KRP,HomeAppliances,TV,55,12000,660000
+KA,SBC,KRP,Books&Stationary,litarature,142,60,8520
+KA,SBC,KRP,Electronics,Mobile,325,8000,2600000
+KA,SBC,KRP,Appearal,western ware,123,1200,147600
+KA,SBC,KRP,Grocery,sugar,600,45,27000
+KA,SBC,KRP,HomeAppliances,washing machine,40,35000,1400000
+KA,SBC,KRP,Books&Stationary,FinanceBooks,25,300,7500
+KA,SBC,KRP,Electronics,Desktop,86,30000,2580000
+KA,SBC,KRP,Appearal,Kids Cloths,457,1500,685500
+KA,SBC,KRP,Grocery,milk,700,38,26600
+KA,SBC,KRP,HomeAppliances,fridge,56,16000,896000
+KA,SBC,KRP,Books&Stationary,Kids Story,100,150,15000
+KA,SBC,KRP,Electronics,tablets,45,16000,720000
+KA,SBC,KRP,Appearal,women Cloths,352,2000,704000
+KA,SBC,KRP,Grocery,biscuits,800,10,8000
+KA,SBC,KRP,HomeAppliances,iron,41,990,40590
+KA,SBC,KRP,Books&Stationary,WeeklyMagazine,201,120,24120
+KA,SBC,KRP,Electronics,printer,5,14800,74000
+KA,SBC,KRP,Appearal,mens cloths,122,2560,312320
+KA,KLBG,SMB,Grocery,tea,500,80,40000
+KA,KLBG,SMB,HomeAppliances,TV,25,12000,300000
+KA,KLBG,SMB,Books&Stationary,litarature,200,60,12000
+KA,KLBG,SMB,Electronics,Mobile,300,8000,2400000
+KA,KLBG,SMB,Appearal,western ware,11,1200,13200
+KA,KLBG,SMB,Grocery,sugar,6000,45,270000
+KA,KLBG,SMB,HomeAppliances,washing machine,10,35000,350000
+KA,KLBG,SMB,Books&Stationary,FinanceBooks,5,300,1500
+KA,KLBG,SMB,Electronics,Desktop,20,30000,600000
+KA,KLBG,SMB,Appearal,Kids Cloths,420,1500,630000
+KA,KLBG,SMB,Grocery,milk,800,38,30400
+KA,KLBG,SMB,HomeAppliances,fridge,40,16000,640000
+KA,KLBG,SMB,Books&Stationary,Kids Story,250,150,37500
+KA,KLBG,SMB,Electronics,tablets,101,16000,1616000
+KA,KLBG,SMB,Appearal,women Cloths,400,2000,800000
+KA,KLBG,SMB,Grocery,biscuits,500,10,5000
+KA,KLBG,SMB,HomeAppliances,iron,200,990,198000
+KA,KLBG,SMB,Books&Stationary,WeeklyMagazine,202,120,24240
+KA,KLBG,SMB,Electronics,printer,52,14800,769600
+KA,KLBG,SMB,Appearal,mens cloths,180,2560,460800
+KA,KLBG,RRB,Grocery,tea,450,80,36000
+KA,KLBG,RRB,HomeAppliances,TV,10,12000,120000
+KA,KLBG,RRB,Books&Stationary,litarature,85,60,5100
+KA,KLBG,RRB,Electronics,Mobile,105,8000,840000
+KA,KLBG,RRB,Appearal,western ware,110,1200,132000
+KA,KLBG,RRB,Grocery,sugar,400,45,18000
+KA,KLBG,RRB,HomeAppliances,washing machine,10,35000,350000
+KA,KLBG,RRB,Books&Stationary,FinanceBooks,15,300,4500
+KA,KLBG,RRB,Electronics,Desktop,26,30000,780000
+KA,KLBG,RRB,Appearal,Kids Cloths,230,1500,345000
+KA,KLBG,RRB,Grocery,milk,400,38,15200
+KA,KLBG,RRB,HomeAppliances,fridge,18,16000,288000
+KA,KLBG,RRB,Books&Stationary,Kids Story,130,150,19500
+KA,KLBG,RRB,Electronics,tablets,10,16000,160000
+KA,KLBG,RRB,Appearal,women Cloths,225,2000,450000
+KA,KLBG,RRB,Grocery,biscuits,450,10,4500
+KA,KLBG,RRB,HomeAppliances,iron,4,990,3960
+KA,KLBG,RRB,Books&Stationary,WeeklyMagazine,124,120,14880
+KA,KLBG,RRB,Electronics,printer,5,14800,74000
+KA,KLBG,RRB,Appearal,mens cloths,456,2560,1167360
+TN,MAS,ANB,Grocery,tea,500,80,40000
+TN,MAS,ANB,HomeAppliances,TV,80,12000,960000
+TN,MAS,ANB,Books&Stationary,litarature,100,60,6000
+TN,MAS,ANB,Electronics,Mobile,800,8000,6400000
+TN,MAS,ANB,Appearal,western ware,125,1200,150000
+TN,MAS,ANB,Grocery,sugar,500,45,22500
+TN,MAS,ANB,HomeAppliances,washing machine,78,35000,2730000
+TN,MAS,ANB,Books&Stationary,FinanceBooks,456,300,136800
+TN,MAS,ANB,Electronics,Desktop,352,30000,10560000
+TN,MAS,ANB,Appearal,Kids Cloths,820,1500,1230000
+TN,MAS,ANB,Grocery,milk,600,38,22800
+TN,MAS,ANB,HomeAppliances,fridge,80,16000,1280000
+TN,MAS,ANB,Books&Stationary,Kids Story,147,150,22050
+TN,MAS,ANB,Electronics,tablets,125,16000,2000000
+TN,MAS,ANB,Appearal,women Cloths,789,2000,1578000
+TN,MAS,ANB,Grocery,biscuits,987,10,9870
+TN,MAS,ANB,HomeAppliances,iron,85,990,84150
+TN,MAS,ANB,Books&Stationary,WeeklyMagazine,250,120,30000
+TN,MAS,ANB,Electronics,printer,46,14800,680800
+TN,MAS,ANB,Appearal,mens cloths,560,2560,1433600
+TN,MAS,MLPR,Grocery,tea,1002,80,80160
+TN,MAS,MLPR,HomeAppliances,TV,425,12000,5100000
+TN,MAS,MLPR,Books&Stationary,litarature,150,60,9000
+TN,MAS,MLPR,Electronics,Mobile,500,8000,4000000
+TN,MAS,MLPR,Appearal,western ware,80,1200,96000
+TN,MAS,MLPR,Grocery,sugar,100,45,4500
+TN,MAS,MLPR,HomeAppliances,washing machine,800,35000,28000000
+TN,MAS,MLPR,Books&Stationary,FinanceBooks,125,300,37500
+TN,MAS,MLPR,Electronics,Desktop,500,30000,15000000
+TN,MAS,MLPR,Appearal,Kids Cloths,78,1500,117000
+TN,MAS,MLPR,Grocery,milk,456,38,17328
+TN,MAS,MLPR,HomeAppliances,fridge,352,16000,5632000
+TN,MAS,MLPR,Books&Stationary,Kids Story,820,150,123000
+TN,MAS,MLPR,Electronics,tablets,600,16000,9600000
+TN,MAS,MLPR,Appearal,women Cloths,80,2000,160000
+TN,MAS,MLPR,Grocery,biscuits,147,10,1470
+TN,MAS,MLPR,HomeAppliances,iron,125,990,123750
+TN,MAS,MLPR,Books&Stationary,WeeklyMagazine,789,120,94680
+TN,MAS,MLPR,Electronics,printer,987,14800,14607600
+TN,MAS,MLPR,Appearal,mens cloths,85,2560,217600
+TN,CMBT,STB,Grocery,tea,250,80,20000
+TN,CMBT,STB,HomeAppliances,TV,46,12000,552000
+TN,CMBT,STB,Books&Stationary,litarature,560,60,33600
+TN,CMBT,STB,Electronics,Mobile,1002,8000,8016000
+TN,CMBT,STB,Appearal,western ware,425,1200,510000
+TN,CMBT,STB,Grocery,sugar,500,45,22500
+TN,CMBT,STB,HomeAppliances,washing machine,80,35000,2800000
+TN,CMBT,STB,Books&Stationary,FinanceBooks,100,300,30000
+TN,CMBT,STB,Electronics,Desktop,800,30000,24000000
+TN,CMBT,STB,Appearal,Kids Cloths,125,1500,187500
+TN,CMBT,STB,Grocery,milk,500,38,19000
+TN,CMBT,STB,HomeAppliances,fridge,78,16000,1248000
+TN,CMBT,STB,Books&Stationary,Kids Story,456,150,68400
+TN,CMBT,STB,Electronics,tablets,352,16000,5632000
+TN,CMBT,STB,Appearal,women Cloths,820,2000,1640000
+TN,CMBT,STB,Grocery,biscuits,600,10,6000
+TN,CMBT,STB,HomeAppliances,iron,80,990,79200
+TN,CMBT,STB,Books&Stationary,WeeklyMagazine,147,120,17640
+TN,CMBT,STB,Electronics,printer,125,14800,1850000
+TN,CMBT,STB,Appearal,mens cloths,789,2560,2019840
+TN,CMBT,ORB,Grocery,tea,987,80,78960
+TN,CMBT,ORB,HomeAppliances,TV,85,12000,1020000
+TN,CMBT,ORB,Books&Stationary,litarature,250,60,15000
+TN,CMBT,ORB,Electronics,Mobile,46,8000,368000
+TN,CMBT,ORB,Appearal,western ware,560,1200,672000
+TN,CMBT,ORB,Grocery,sugar,1002,45,45090
+TN,CMBT,ORB,HomeAppliances,washing machine,425,35000,14875000
+TN,CMBT,ORB,Books&Stationary,FinanceBooks,25,300,7500
+TN,CMBT,ORB,Electronics,Desktop,86,30000,2580000
+TN,CMBT,ORB,Appearal,Kids Cloths,789,1500,1183500
+TN,CMBT,ORB,Grocery,milk,987,38,37506
+TN,CMBT,ORB,HomeAppliances,fridge,85,16000,1360000
+TN,CMBT,ORB,Books&Stationary,Kids Story,250,150,37500
+TN,CMBT,ORB,Electronics,tablets,46,16000,736000
+TN,CMBT,ORB,Appearal,women Cloths,560,2000,1120000
+TN,CMBT,ORB,Grocery,biscuits,1002,10,10020
+TN,CMBT,ORB,HomeAppliances,iron,425,990,420750
+TN,CMBT,ORB,Books&Stationary,WeeklyMagazine,25,120,3000
+TN,CMBT,ORB,Electronics,printer,86,14800,1272800
+TN,CMBT,ORB,Appearal,mens cloths,122,2560,312320
